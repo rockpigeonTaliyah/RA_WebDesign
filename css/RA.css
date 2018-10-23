@@ -1,0 +1,183 @@
+
+  #outlook a{padding:0;}
+  .ReadMsgBody{width:100%;} .ExternalClass{width:100%;}
+  .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;}
+  body, table, td, a{-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%;}
+  table, td{mso-table-lspace:0pt; mso-table-rspace:0pt;}
+  img{-ms-interpolation-mode:bicubic;}
+  body{margin:0; padding:0;}
+  img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+  table{border-collapse:collapse !important;}
+  body{height:100% !important; margin:0; padding:0; width:100% !important;}
+  table {border-collapse: collapse; margin: 0px auto;}
+  .container {min-width: 0 !important}
+  div[style*="margin: 16px 0"] { margin:0 !important; }
+
+  /* WEB FONTS */
+  @import url("//hello.myfonts.net/count/2d9b47.css");
+
+
+  @font-face {font-family: 'Museo Sans';src: url('http://cdn.harrys.com/email/webfonts/2D9B47_0_0.eot');src: url('http://cdn.harrys.com/email/webfonts/2D9B47_0_0.eot?#iefix') format('embedded-opentype'),url('http://cdn.harrys.com/email/webfonts/2D9B47_0_0.woff2') format('woff2'),url('http://cdn.harrys.com/email/webfonts/2D9B47_0_0.woff') format('woff'),url('http://cdn.harrys.com/email/webfonts/2D9B47_0_0.ttf') format('truetype');font-weight: bold;font-style: normal;}
+
+  @font-face {font-family: 'Museo Sans';src: url('http://cdn.harrys.com/email/webfonts/2D9B47_1_0.eot');src: url('http://cdn.harrys.com/email/webfonts/2D9B47_1_0.eot?#iefix') format('embedded-opentype'),url('http://cdn.harrys.com/email/webfonts/2D9B47_1_0.woff2') format('woff2'),url('http://cdn.harrys.com/email/webfonts/2D9B47_1_0.woff') format('woff'),url('http://cdn.harrys.com/email/webfonts/2D9B47_1_0.ttf') format('truetype');font-weight: normal;font-style: normal;}
+
+  @font-face {font-family: 'Museo Sans';src: url('http://cdn.harrys.com/email/webfonts/2D9B47_2_0.eot');src: url('http://cdn.harrys.com/email/webfonts/2D9B47_2_0.eot?#iefix') format('embedded-opentype'),url('http://cdn.harrys.com/email/webfonts/2D9B47_2_0.woff2') format('woff2'),url('http://cdn.harrys.com/email/webfonts/2D9B47_2_0.woff') format('woff'),url('http://cdn.harrys.com/email/webfonts/2D9B47_2_0.ttf') format('truetype');font-weight: bold;font-style: italic;}
+
+  @font-face {font-family: 'Museo Sans';src: url('http://cdn.harrys.com/email/webfonts/2D9B47_3_0.eot');src: url('http://cdn.harrys.com/email/webfonts/2D9B47_3_0.eot?#iefix') format('embedded-opentype'),url('http://cdn.harrys.com/email/webfonts/2D9B47_3_0.woff2') format('woff2'),url('http://cdn.harrys.com/email/webfonts/2D9B47_3_0.woff') format('woff'),url('http://cdn.harrys.com/email/webfonts/2D9B47_3_0.ttf') format('truetype');font-weight: normal;font-style: italic;}
+
+  @font-face {font-family: 'Brandon Grotesque';src: url('http://cdn.harrys.com/email/webfonts/3083F9_2_0.eot');src: url('http://cdn.harrys.com/email/webfonts/3083F9_2_0.eot?#iefix') format('embedded-opentype'),url('http://cdn.harrys.com/email/webfonts/3083F9_2_0.woff2') format('woff2'),url('http://cdn.harrys.com/email/webfonts/3083F9_2_0.woff') format('woff'),url('http://cdn.harrys.com/email/webfonts/3083F9_2_0.ttf') format('truetype');font-weight: normal;font-style: normal;}
+
+  @font-face {font-family: 'Brandon Grotesque';src: url('http://cdn.harrys.com/email/webfonts/2D9B47_6_0.eot');src: url('http://cdn.harrys.com/email/webfonts/2D9B47_6_0.eot?#iefix') format('embedded-opentype'),url('http://cdn.harrys.com/email/webfonts/2D9B47_6_0.woff2') format('woff2'),url('http://cdn.harrys.com/email/webfonts/2D9B47_6_0.woff') format('woff'),url('http://cdn.harrys.com/email/webfonts/2D9B47_6_0.ttf') format('truetype'); font-weight: bold;font-style: normal;}
+
+
+  @media screen and (-webkit-min-device-pixel-ratio: 0) {
+
+    .h1, .h1 a{
+        font-family: 'Brandon Grotesque', Futura, Trebuchet MS, Arial, sans-serif !important;
+        font-size: 36px !important;
+        line-height: 52px !important;
+        letter-spacing: 1.25px !important;
+        font-weight: normal !important;
+    }
+
+    .h2, .h2 a{
+        font-family: 'Brandon Grotesque', Futura, Trebuchet MS, Arial, sans-serif !important;
+        font-size: 28px !important;
+        line-height: 42px !important;
+        letter-spacing: 1px !important;
+        font-weight: normal !important;
+    }
+
+    .h3, .h3 a{
+        font-family: 'Brandon Grotesque', Futura, Trebuchet MS, Arial, sans-serif !important;
+        font-size: 24px !important;
+        line-height: 36px !important;
+        letter-spacing: 1.25px !important;
+        font-weight: normal !important;
+    }
+
+    .subheader, .subheader a{
+        font-family: 'Brandon Grotesque', Futura, Trebuchet MS, Arial, sans-serif !important;
+        font-size: 12px !important;
+        line-height: 24px !important;
+        letter-spacing: 2.3px !important;
+        font-weight: bold !important;
+    }
+
+    .body, .body a{
+        font-family: 'Museo Sans', Verdana, Geneva, sans-serif !important;
+        font-size: 15px !important;
+        line-height: 28px !important;
+        letter-spacing: 0.75px !important;
+    }
+
+    .note, .note a{
+        font-family: 'Museo Sans', Verdana, Geneva, sans-serif !important;
+        letter-spacing: 0.4px !important;
+    }
+
+    .large-cta, .large-cta a{
+        font-family: 'Brandon Grotesque', Futura, Trebuchet MS, Arial, sans-serif !important;
+        font-size: 14px !important;
+        letter-spacing: 2px !important;
+        border-top-width: 14px !important;
+        border-bottom-width: 10px !important;
+        border-right-width: 30px !important;
+        border-left-width: 30px !important;
+        font-weight: bold !important;
+    }
+
+}
+
+   /* APPLE BLUE LINKS */
+  .smart-666666 a {color:#666666 !important; text-decoration: none !important;}
+  .smart-868686 a {color:#868686 !important; text-decoration: none !important;}
+  .smart-BFBFBF a {color:#BFBFBF !important; text-decoration: none !important;}
+  .smart-185674 a {color:#185674 !important; text-decoration: none !important;}
+  .smart-263645 a {color:#263645 !important; text-decoration: none !important;}
+  .smart-FFFFFF a {color:#FFFFFF !important; text-decoration: none !important;}
+
+
+ /* MEDIA QUERY SCREEN 579px */
+ @media screen and (max-width: 579px), screen and (max-width: 579px) {
+      table[class="full-table"], td[class="full-table"] img{
+          width:100%!important;
+          min-width: 0 !important;
+          height:auto !important;
+      }
+
+      td[class="mobile-hide"], table[class="mobile-hide"]{
+          height: 1px !important;
+          display: none !important;
+          min-width:inherit !important;
+      }
+
+      td[class="hero"] img{
+      width: 100% !important;
+      height: auto !important;
+  }
+
+      td[class="mobile-column"]{
+      height:auto !important;
+      padding: 0 !important;
+  }
+
+  td[class="mobile-column"] td{
+      text-align: center !important;
+      padding: 0 20px !important;
+  }
+
+  table[class="bg-text"] {
+    width:100%!important;
+    display: block !important;
+    padding-top: 400px !important;
+  }
+
+  td[class="full-bg-right"] {
+      display:block !important;
+        background-position: 26% center !important;
+    }
+
+    td[class="full-bg-left"] {
+      display:block !important;
+        background-position: 74% center !important;
+    }
+
+    td[class="half-bg-right"] {
+      display:block !important;
+      background-size: cover !important;
+        background-position: left bottom !important;
+    }
+
+    td[class="half-bg-left"] {
+      display:block !important;
+      background-size: cover !important;
+        background-position: right bottom !important;
+    }
+
+    td[class="2-col-inline"] {
+        background: none !important;
+    }
+
+      *[class="head"]{display:table-header-group!important; width:100%!important;}
+      *[class="foot"]{display:table-footer-group!important; width:100%!important;}
+      .head:after{
+        content:'---------------------------------------------------------------------------------------------------------------------';
+        max-height:0;
+        overflow:hidden;
+        display:block;
+      }
+
+  /* CUSTOM */
+
+    .grid{
+      background-size: 583px 225px !important;
+      height: 225px !important;
+    }
+
+    .timer{
+      height: 52px !important;
+      width: 290px !important;
+    }
+
+  }
